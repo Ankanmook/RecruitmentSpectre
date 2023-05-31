@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitmentSpectreTest", "RecruitmentSpectre\RecruitmentSpectreTest.csproj", "{B3A271CC-A580-4482-AEC5-B03124A92BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitmentSpectreMain", "RecruitmentSpectreMain\RecruitmentSpectreMain.csproj", "{6AAD44E6-8EF1-45F2-8C05-C23BC8FD42BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A271CC-A580-4482-AEC5-B03124A92BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A271CC-A580-4482-AEC5-B03124A92BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A271CC-A580-4482-AEC5-B03124A92BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A271CC-A580-4482-AEC5-B03124A92BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAD44E6-8EF1-45F2-8C05-C23BC8FD42BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAD44E6-8EF1-45F2-8C05-C23BC8FD42BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAD44E6-8EF1-45F2-8C05-C23BC8FD42BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAD44E6-8EF1-45F2-8C05-C23BC8FD42BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9219009-75C3-4FB6-B0F2-4A1DCD0D0BC0}
+	EndGlobalSection
+EndGlobal
